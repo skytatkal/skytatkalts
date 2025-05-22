@@ -2,6 +2,51 @@
   {
     "user_name": "SKYTATKALVPS",
     "password": "SKYTATKALVPS",
-    "expiry_date": "2025-07-07 00:00:00"
+    "expiry_date": "2025-06-12 00:00:00"
+  },
+  {
+    "user_name": "SKYRG",
+    "password": "SKYRG",
+    "expiry_date": "2025-06-10 00:00:00"
+  },
+  {
+    "user_name": "SKYADI",
+    "password": "SKYADI",
+    "expiry_date": "2025-06-09 00:00:00"
+  },
+  {
+    "user_name": "TEST",
+    "password": "TEST",
+    "expiry_date": "2025-06-07 00:00:00"
+  },
+  {
+    "user_name": "DEMO",
+    "password": "DEMO",
+    "expiry_date": "2025-06-05 00:00:00"
+  },
+  {
+    "user_name": "MASTER",
+    "password": "MASTER",
+    "expiry_date": "2025-06-04 00:00:00"
+  },
+  {
+    "user_name": "SELLERS",
+    "password": "SELLERS",
+    "expiry_date": "2025-06-04 00:00:00"
+  },
+  {
+    "user_name": "SUPER",
+    "password": "SUPER",
+    "expiry_date": "2025-06-03 00:00:00"
+  },
+  {
+    "user_name": "KING",
+    "password": "KING",
+    "expiry_date": "2025-06-02 00:00:00"
+  },
+  {
+    "user_name": "RAJA",
+    "password": "RAJA",
+    "expiry_date": "2026-06-05 00:00:00"
   }
 ]
